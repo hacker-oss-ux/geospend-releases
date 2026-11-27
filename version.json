@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "3.0",
-  "apkUrl": "https://github.com/hacker-oss-ux/geospend-releases/releases/download/v3.0/geospend-v3.0.apk",
-  "releaseNotes": "v3.0 Ultra-Premium Edition: 1-Tap UPI Re-Pay from pins, Stealth Camouflage ₹ masking, Standalone Interactive HTML Map Dossier, Auto-Settling UPI Bill Split, Street-Inflation Price Creep Alerts, Smart Impulse-Control Geofence, Commute & Transit Corridor Cost Breakdown, Local Natural Language Smart Query Engine, True Offline Satellite SMS Geo-Beacon, and Peer-to-Peer Encrypted Sync & Share."
+  "versionCode": 7,
+  "versionName": "4.0",
+  "apkUrl": "https://github.com/hacker-oss-ux/geospend-releases/releases/download/v4.0/geospend-v4.0.apk",
+  "releaseNotes": "v4.0 Real Customer Location & 10 Extra Powerhouse Features: Accurate GPay/UPI sender & P2P location engine (no bogus person-name pins, UPI VPA + sender memory, In-Person Counter Mode, 1-tap Here/Set Area/Ask WhatsApp/Paste Map Link + auto-fetch from WhatsApp location pin replies), plus Live UPI QR Scanner, Voice-to-Expense Logger, Smart Card/UPI Reward Optimizer, Pre-Debit AutoPay Radar, Impossible-Travel Fraud Radar, Tax/GST CA Audit ZIP, Entering Splurge Zone Geofences, Spend Passport, Smart Split Reminders, and Monthly Money Wrapped."
 }
