@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "2.2",
-  "apkUrl": "https://github.com/hacker-oss-ux/geospend-releases/releases/download/v2.2/geospend-v2.2.apk",
-  "releaseNotes": "v2.2: Dedicated in-app About & What's New dialog (view all release features), GPay & UPI incoming money sender location tracking, full expandable release notes in version browser, and cache-free cloud OTA updater."
+  "versionCode": 6,
+  "versionName": "3.0",
+  "apkUrl": "https://github.com/hacker-oss-ux/geospend-releases/releases/download/v3.0/geospend-v3.0.apk",
+  "releaseNotes": "v3.0 Ultra-Premium Edition: 1-Tap UPI Re-Pay from pins, Stealth Camouflage ₹ masking, Standalone Interactive HTML Map Dossier, Auto-Settling UPI Bill Split, Street-Inflation Price Creep Alerts, Smart Impulse-Control Geofence, Commute & Transit Corridor Cost Breakdown, Local Natural Language Smart Query Engine, True Offline Satellite SMS Geo-Beacon, and Peer-to-Peer Encrypted Sync & Share."
 }
