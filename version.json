@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "2.1",
-  "apkUrl": "https://github.com/hacker-oss-ux/geospend-releases/releases/download/v2.1/geospend-v2.1.apk",
-  "releaseNotes": "v2.1: Incoming Merchant & Sender Location Tracking (remembered sender origin memory, auto business-name & branch/city geocoding, 1-tap sender pin review), in-app Previous & All Versions browser/downloader, and cache-free OTA updater."
+  "versionCode": 5,
+  "versionName": "2.2",
+  "apkUrl": "https://github.com/hacker-oss-ux/geospend-releases/releases/download/v2.2/geospend-v2.2.apk",
+  "releaseNotes": "v2.2: Dedicated in-app About & What's New dialog (view all release features), GPay & UPI incoming money sender location tracking, full expandable release notes in version browser, and cache-free cloud OTA updater."
 }
