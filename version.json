@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "4.2",
-  "apkUrl": "https://github.com/hacker-oss-ux/geospend-releases/releases/download/v4.2/geospend-v4.2.apk",
-  "releaseNotes": "v4.2 Map Polish: Removed the long green connecting line on the map so detected spend and receive locations show only clean area pins without extra lines."
+  "versionCode": 10,
+  "versionName": "4.3",
+  "apkUrl": "https://github.com/hacker-oss-ux/geospend-releases/releases/download/v4.3/geospend-v4.3.apk",
+  "releaseNotes": "v4.3 External App Routing Bundle: Share GPay/PhonePe/Paytm payment screenshots directly into GeoSpend with OCR + 10-min dedup + 1-tap WhatsApp forwarding, share Google Maps/WhatsApp location pins to log or pin transactions, and tap .json/.geospend backup files to restore directly."
 }
