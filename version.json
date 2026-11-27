@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "4.1",
-  "apkUrl": "https://github.com/hacker-oss-ux/geospend-releases/releases/download/v4.1/geospend-v4.1.apk",
-  "releaseNotes": "v4.1 Fix & Polish: Eliminated duplicate transactions for single UPI/SMS payments (cross-channel GPay + Bank SMS + Messages now merge into 1 single entry, plus automatic duplicate cleanup and Save double-tap guard) and added a 3-second pure-black launch splash screen with the GeoSpend logo and name."
+  "versionCode": 9,
+  "versionName": "4.2",
+  "apkUrl": "https://github.com/hacker-oss-ux/geospend-releases/releases/download/v4.2/geospend-v4.2.apk",
+  "releaseNotes": "v4.2 Map Polish: Removed the long green connecting line on the map so detected spend and receive locations show only clean area pins without extra lines."
 }
