@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/hacker-oss-ux/geospend-releases/releases/download/v1.1/geospend-v1.1.apk",
-  "releaseNotes": "v1.1: Edit/delete & move pins, receipt photos, spend journey path & cashflow filter, smart merchant memory, locality budget alerts, CSV/PDF reports + JSON backup, and home screen widget."
+  "versionCode": 3,
+  "versionName": "2.0",
+  "apkUrl": "https://github.com/hacker-oss-ux/geospend-releases/releases/download/v2.0/geospend-v2.0.apk",
+  "releaseNotes": "v2.0: Offline Smart Spend Intelligence — Auto Recurring Bills & Subscriptions detector (with price-hike alerts), Real-Time Double-Charge & Spend-Spike alerts, Live Safe-to-Spend Today & Month-End Forecast, and Auto 75m Physical Place Clustering."
 }
